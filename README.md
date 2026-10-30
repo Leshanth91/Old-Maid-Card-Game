@@ -1,6 +1,6 @@
 # Interactive Old Maid Card Game
 
-A text-based Python program that implements the classic card game Old Maid, allowing a user to play matches dynamically against an automated dealer AI ('Robot').
+A text-based Python program that implements the classic card game Old Maid, allowing a user to play matches dynamically against an automated dealer AI "Robot".
 
 ## Features
 * **Automated Setup:** Handles clean standard playing deck creation (with one queen safely omitted) and random shuffles.
