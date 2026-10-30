@@ -1,1 +1,1 @@
-# Old Maid Card Game
+A text-based Python implementation of the classic Old Maid card game where a user plays against a simulated dealer ('Robot'). The game automatically handles deck creation (with one queen missing), shuffling, dealing, and the removal of matching pairs before alternating turns to draw cards until a winner is determined.
